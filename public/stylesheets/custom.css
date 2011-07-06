@@ -111,3 +111,20 @@ footer {
 footer nav {
   float: none;
 }
+
+/* errors */
+#error_explanation {
+  border: 1px solid #ddd;
+  background-color: #eee;
+  width: 400px;
+  padding: 10px;
+  font-size: .9em;
+}
+
+#error_explanation h2 {
+  font-size: 1.1em;
+}
+
+#error_explanation ul {
+  font-size: .9em;
+}
